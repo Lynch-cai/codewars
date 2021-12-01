@@ -20,6 +20,7 @@ function firstNonRepeatingLetter(s) {
 }
 
 
+
 // -- Instruction
 // Write a function named first_non_repeating_letter that takes a string input, and returns the first character that is not repeated anywhere in the string.
 
@@ -28,6 +29,7 @@ function firstNonRepeatingLetter(s) {
 // As an added challenge, upper- and lowercase letters are considered the same character, but the function should return the correct case for the initial letter. For example, the input 'sTreSS' should return 'T'.
 
 // If a string contains all repeating characters, it should return an empty string ("") or None -- see sample tests.
+
 
 
 // -- Sample Tests:
