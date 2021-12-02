@@ -10,7 +10,7 @@ function score( dice ) {
     dice.map((die, i) => {
         tests.map((test) => {
             if(die == test[0]){
-            test[2]++
+                test[2]++
             }
         })
     })
