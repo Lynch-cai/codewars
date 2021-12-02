@@ -1,4 +1,4 @@
-// 
+// Greed is Good
 function score( dice ) {
     let tests = [[1, 1000, 0],
                 [2, 200, 0],
